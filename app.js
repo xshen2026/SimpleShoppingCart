@@ -19,7 +19,7 @@
 		{
 			name: 'blueberry',
 			price: 3.49,
-			information: 'farmers blueberry'
+			information: 'farmers blueberry, member price'
 		}
 	];
 })();
